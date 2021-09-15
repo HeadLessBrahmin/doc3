@@ -5,3 +5,7 @@
 :partialsdir: {moduledir}\partials
 
 :table-caption!:
+
+== Destinace
+
+něco něco
