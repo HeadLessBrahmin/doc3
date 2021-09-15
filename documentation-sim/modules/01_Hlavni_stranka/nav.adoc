@@ -1,1 +1,1 @@
-* xref:00-01_Uvod.adoc[1 Hlavní stránka]
+* xref:00-01_Uvod.adoc[1-Hlavní stránka]
