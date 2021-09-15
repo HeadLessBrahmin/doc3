@@ -7,3 +7,18 @@
 :table-caption!:
 
 == Seznam zkratek
+
+Zde bude seznam užitých zkratek. V seznamu. Zkratkovitě.
+
+[cols="1,4"]
+|===
+|Zkratka |Význam
+
+|
+|
+
+|
+|
+|===
+
+Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.

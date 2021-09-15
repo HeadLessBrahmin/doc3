@@ -35,4 +35,4 @@ a|Dokumentace již obsahuje i nějaký obsah.
 |Martin Svinka
 |===
 
-Testovací dokumentace na náhodné téma, vytvořená čistě za účely prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.
+Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.

@@ -9,3 +9,5 @@
 == Jakékoliv místo
 
 něco něco
+
+Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.
