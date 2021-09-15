@@ -6,6 +6,6 @@
 
 :table-caption!:
 
-Hlavní města Evropy
+== Hlavní města Evropy
 
 něco něco
