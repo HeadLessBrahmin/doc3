@@ -1,0 +1,6 @@
+* xref:03-01_Uvod.adoc[4 Modul Předpověď]
+** xref:03-02_Podle_kraju.adoc[Podle krajů]
+** xref:03-03_Oblibena_mista.adoc[Oblíbená místa]
+** xref:03-04_Hlavni_mesta_Evropy.adoc[Hlavní Města Evropy]
+** xref:03-05_Destinace.adoc[Destinace]
+** xref:03-06_Jakekoliv_misto.adoc[Jakékoliv místo na světě]
