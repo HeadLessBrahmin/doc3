@@ -1,0 +1,15 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
+= In-Počasí - Uživatelská příručka
+
+*Verze dokumentu: 1.0.0.1*
+
+Tato dokumentační stránka slouží k popisu uživatelské části serveru https://www.in-pocasi.cz/[In-Počasí], který přináší na internet a do médií meteorologické informace již přes 10 let.
+
+Provozovatelem serveru In-počasí je společnost https://www.inmeteo.cz/[InMeteo].
+
+Testovací dokumentace na náhodné téma, vytvořená čistě za účely prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.
