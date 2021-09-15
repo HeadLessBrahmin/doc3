@@ -1,0 +1,11 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
+:table-caption!:
+
+== Směr větru
+
+něco něco
