@@ -1,0 +1,13 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
+:table-caption!:
+
+== Teplota
+
+něco něco
+
+Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.

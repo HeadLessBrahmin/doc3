@@ -1,0 +1,15 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
+:table-caption!:
+
+== Modul Aktuálně
+
+Modul Aktuálně nabízí pohled na aktuální povětrnostní podmínky na různých místech České republiky.
+
+Pro zobrazení modulu Aktuálně si otevřeme domovskou stránku https://www.in-pocasi.cz/ a pokračujeme kliknutím na položku `+Aktuálně+`.
+
+image::001.png[Menu]
