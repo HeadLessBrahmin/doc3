@@ -1,1 +1,0 @@
-* xref:01_Uvod.adoc[Modul Numerický model]
