@@ -8,6 +8,16 @@
 
 == Teplota
 
-něco něco
+První záložkou v modulu Aktuálně je teplota. Nabízí aktuální přehled teplotních podmínek v meteostanicích napříč celou ČR, jakož i přehled rekordních teplot, vázajících se ke dnešnímu dni, či přehled podrobnějších informací pro vybrané meteostanice v tabulce níže.
 
-Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.
+image::003.png[]
+
+Jednotlivé meteostanice jsou na mapě symbolizovány políčky s teplotou. Kliknutím na některou z nich se přeneseme do detailu dané meteostanice.
+
+image::004.png[]
+
+* (*1*) *Přehledové tabulky* - Tato sada tabulek nabízí přehled základních aktuálně naměřených veličin na dané stanici. Je zde např. možné porovnat změnu teploty za posledních 30 minut, nebo srovnat aktuální teplotu s tou naměřenou před 24 hodinami.
+* (*2*) *Typy grafů* - Zde je možné přepínat mezi různými typy vývojových grafů. Defaultně je vybraný vývojový graf teploty za posledních 36 hodin.
+* (*3*) *Vývojový graf* - Zde se zobrazuje vybraný vývojový graf. Defaultně je zobrazený vývojový graf teploty za posledních 36 hodin.
+* (*4*) *Měsíční statistiky* - Zde se zobrazují měsíční statistiky vybrané stanice. Pomocí záložek je možné přepínat mezi jednotlivými diagramy. Defaultně je vybraný graf teploty.
+* (*5*) *O stanici* - Zde se zobrazují historické rekordní hodnoty, naměřené na vybrané stanici.
