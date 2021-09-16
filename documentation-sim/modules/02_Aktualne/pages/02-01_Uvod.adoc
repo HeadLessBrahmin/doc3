@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Modul Aktuálně
+= 2 Modul Aktuálně
 
 Modul Aktuálně nabízí pohled na aktuální povětrnostní podmínky na různých místech České republiky.
 

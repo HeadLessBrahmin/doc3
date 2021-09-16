@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Tlak
+= Tlak
 
 něco něco
 

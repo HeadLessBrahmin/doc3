@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Teplota
+= Teplota
 
 První záložkou v modulu Aktuálně je teplota. Nabízí aktuální přehled teplotních podmínek v meteostanicích napříč celou ČR, jakož i přehled rekordních teplot, vázajících se ke dnešnímu dni, či přehled podrobnějších informací pro vybrané meteostanice v tabulce níže.
 

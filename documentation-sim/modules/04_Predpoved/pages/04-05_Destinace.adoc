@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Destinace
+= Destinace
 
 něco něco
 

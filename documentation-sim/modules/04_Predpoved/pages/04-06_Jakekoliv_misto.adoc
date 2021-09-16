@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Jakékoliv místo
+= Jakékoliv místo
 
 něco něco
 

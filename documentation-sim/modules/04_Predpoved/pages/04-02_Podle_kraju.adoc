@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Podle krajů
+= Podle krajů
 
 něco něco
 

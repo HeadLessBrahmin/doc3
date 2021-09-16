@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Oblíbená místa
+= Oblíbená místa
 
 něco něco
 

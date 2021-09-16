@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Modul Numerický model
+= 5 Modul Numerický model
 
 něco něco
 

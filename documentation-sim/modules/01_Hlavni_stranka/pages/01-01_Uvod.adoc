@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Hlavní stránka
+= 1 Hlavní stránka
 
 Hlavní (domovská) stránka slouží jako základní rozcestník serveru In-Počasí. I bez proklikávání se do podnabídek zde nalezneme mnoho informací o počasí současném, jakož i budoucím. Zároveň zde však nalezneme prokliky do podnabídek a k sekundárním funkcím, pokud potřebujeme detailnější informace.
 

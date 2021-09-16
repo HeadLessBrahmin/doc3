@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Vítr
+= Vítr
 
 něco něco
 

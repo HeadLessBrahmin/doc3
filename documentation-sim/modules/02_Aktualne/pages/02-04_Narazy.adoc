@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Nárazy
+= Nárazy
 
 něco něco
 

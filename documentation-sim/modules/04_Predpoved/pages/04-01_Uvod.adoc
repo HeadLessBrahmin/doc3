@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Modul Předpověď počasí
+= 4 Modul Předpověď počasí
 
 něco něco
 

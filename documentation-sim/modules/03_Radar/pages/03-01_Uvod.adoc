@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== Modul Radar
+= 3 Modul Radar
 
 něco něco
 
