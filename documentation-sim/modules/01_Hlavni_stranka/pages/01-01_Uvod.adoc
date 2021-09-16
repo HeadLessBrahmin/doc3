@@ -14,7 +14,7 @@ image::000.png[]
 
 Mezi nejdůležitější funkce hlavní stránky patří:
 
-* (*1*) *Hlavní menu* - Umožňuje navigaci k základním funkcím serveru In-Počasí. Především se jedná o moduly xref:02_Aktualně::02-01_Uvod.adoc[Aktuálně], xref:03-01_Uvod.adoc[Radar], xref:04-01_Uvod.adoc[Předpověď] a xref:05-01_Uvod.adoc[Numerický model]. Detailní popis nalezneme v samostatných kapitolách této dokumentace.
+* (*1*) *Hlavní menu* - Umožňuje navigaci k základním funkcím serveru In-Počasí. Především se jedná o moduly *Aktuálně*, *Radar*, *Předpověď* a *Numerický model*. Detailní popis nalezneme v samostatných kapitolách této dokumentace.
 * (*2*) *Aktuiální počasí podle lokality* - Nabízí rychlý náhled na aktuální povetrnostní podmínky v uživatelsky zvoleném místě - editace polohy vyžaduje přihlášení k uživatelskému účtu.
 * (*3*) *Předpověď podle krajů* - Nabízí předpoveď počasí na následující dny s možností prokliků na jednotlivé kraje ČR a města.
 * (*4*) *Články o počasí* - Přehled článků a zajímavostí, týkajících se tématiky počasí.
