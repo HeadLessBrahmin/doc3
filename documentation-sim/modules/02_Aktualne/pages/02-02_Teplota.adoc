@@ -10,9 +10,11 @@
 
 První záložkou v modulu Aktuálně je teplota. Nabízí aktuální přehled teplotních podmínek v meteostanicích napříč celou ČR, jakož i přehled rekordních teplot, vázajících se ke dnešnímu dni, či přehled podrobnějších informací pro vybrané meteostanice v tabulce níže.
 
+Jednotlivé meteostanice jsou na mapě symbolizovány políčky s teplotou. Kliknutím na některou z nich se přeneseme do detailu dané meteostanice.
+
 image::003.png[]
 
-Jednotlivé meteostanice jsou na mapě symbolizovány políčky s teplotou. Kliknutím na některou z nich se přeneseme do detailu dané meteostanice.
+== Detail meteostanice
 
 image::004.png[]
 

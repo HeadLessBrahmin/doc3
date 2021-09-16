@@ -14,6 +14,8 @@ Pro zobrazení modulu Aktuálně si otevřeme domovskou stránku https://www.in-
 
 image::001.png[]
 
+== Mapa
+
 Hlavním ovládacím prvkem modulu Aktuálně je mapa ČR s vyznačenými meteostanicemi. Pomocí záložek nad mapou si můžeme vybrat danou měřenou veličinu (např. aktuální teplotu, srážky atd.) a následně na mapě konkrétní meteostanici. Tímto se detailněji zabývají následující kapitoly.
 
 image::002.png[]
