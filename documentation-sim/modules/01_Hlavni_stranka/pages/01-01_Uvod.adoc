@@ -1,7 +1,7 @@
 :moduledir: ..
 :attachmentsdir: {moduledir}\attachments
 :examplesdir: {moduledir}\examples
-:imagesdir: {moduledir}\images
+:imagesdir: documentation-sim\modules\01_Hlavni_stranka\images
 :partialsdir: {moduledir}\partials
 
 :table-caption!:
