@@ -1,6 +1,8 @@
 :moduledir: ..
 :attachmentsdir: {moduledir}\attachments
 :examplesdir: {moduledir}\examples
+//alternativní imagesdir pro náhled při editaci
+//:imagesdir: {moduledir}\images
 :imagesdir: documentation-sim\modules\01_Hlavni_stranka\images
 :partialsdir: {moduledir}\partials
 
@@ -12,7 +14,7 @@ Hlavní (domovská) stránka slouží jako základní rozcestník serveru In-Po�
 
 image::000.png[]
 
-Mezi nejdůležitější funkce hlavní stránky patří:
+== Nejdůležitější funkce hlavní stránky
 
 * (*1*) *Hlavní menu* - Umožňuje navigaci k základním funkcím serveru In-Počasí. Především se jedná o moduly *Aktuálně*, *Radar*, *Předpověď* a *Numerický model*. Detailní popis nalezneme v samostatných kapitolách této dokumentace.
 * (*2*) *Aktuiální počasí podle lokality* - Nabízí rychlý náhled na aktuální povetrnostní podmínky v uživatelsky zvoleném místě - editace polohy vyžaduje přihlášení k uživatelskému účtu.

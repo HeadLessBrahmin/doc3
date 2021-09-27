@@ -1,7 +1,9 @@
 :moduledir: ..
 :attachmentsdir: {moduledir}\attachments
 :examplesdir: {moduledir}\examples
-:imagesdir: {moduledir}\images
+//alternativní imagesdir pro náhled při editaci
+//:imagesdir: {moduledir}\images
+:imagesdir: documentation-sim\modules\02_Aktualne\images
 :partialsdir: {moduledir}\partials
 
 :table-caption!:
