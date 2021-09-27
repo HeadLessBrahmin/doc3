@@ -25,13 +25,3 @@ image::004.png[]
 * (*3*) *Vývojový graf* - Zde se zobrazuje vybraný vývojový graf. Defaultně je zobrazený vývojový graf teploty za posledních 36 hodin.
 * (*4*) *Měsíční statistiky* - Zde se zobrazují měsíční statistiky vybrané stanice. Pomocí záložek je možné přepínat mezi jednotlivými diagramy. Defaultně je vybraný graf teploty.
 * (*5*) *O stanici* - Zde se zobrazují historické rekordní hodnoty, naměřené na vybrané stanici.
-
-[IMPORTANT]
-.Krmení vlkodlaků
-====
-Přestože vlkodlaci jsou vskutku houževnatými členy komunity, je třeba brát v potaz jejich následující výživová omezení:
-
-. Jsou alergičtí na skořici.
-. Více, než 2 sklenice pomerančového džusu denně způsobí, že budou výt v harmonii s ozývajícími se sirénami a alarmy.
-. Celer je pokaždé převelice rozesmutní.
-====
