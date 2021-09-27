@@ -35,6 +35,11 @@ a|Dokumentace již obsahuje i nějaký obsah.
 * menu
 * položky v něm
 |Martin Svinka
+
+|27. 9. 2021
+|1.0.0.1.1
+|Barva záhlaví změněna z nemoderní myší šedi na vojenskou šeď.
+|Martin Svinka
 |===
 
 Testovací dokumentace na náhodné téma, vytvořená čistě za účely interní prezentace a simulace možného využití dokumentačního nástroje Antora. Nebylo zamýšleno jakékoliv porušení autorských práv.

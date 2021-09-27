@@ -1,6 +1,6 @@
 name: in-pocasi
 title: In-Počasí
-version: '1.0.0.1'
+version: '1.0.0.1.1'
 nav:
 - modules/ROOT/nav.adoc
 - modules/01_Hlavni_stranka/nav.adoc
