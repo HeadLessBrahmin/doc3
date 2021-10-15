@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Vítr
+= 2.2 Vítr
 
 == První nadpis
 

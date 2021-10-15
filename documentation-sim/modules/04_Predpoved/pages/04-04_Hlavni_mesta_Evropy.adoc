@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Hlavní města Evropy
+= 4.3 Hlavní města Evropy
 
 == Nadpis
 

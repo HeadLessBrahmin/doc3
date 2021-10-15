@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Směr větru
+= 2.4 Směr větru
 
 == Nadpis
 

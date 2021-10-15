@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Tlak
+= 2.7 Tlak
 
 == Nadpis
 

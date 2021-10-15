@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Oblíbená místa
+=4.2 Oblíbená místa
 
 == Nadpis
 

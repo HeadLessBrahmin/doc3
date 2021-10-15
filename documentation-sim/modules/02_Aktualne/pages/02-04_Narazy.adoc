@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Nárazy
+= 2.3 Nárazy
 
 == Nadpis
 

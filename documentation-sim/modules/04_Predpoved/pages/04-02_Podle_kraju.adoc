@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Podle krajů
+= 4.1 Podle krajů
 
 == Nadpis
 

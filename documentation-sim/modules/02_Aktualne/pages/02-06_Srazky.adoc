@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Srážky
+= 2.5 Srážky
 
 == Nadpis
 

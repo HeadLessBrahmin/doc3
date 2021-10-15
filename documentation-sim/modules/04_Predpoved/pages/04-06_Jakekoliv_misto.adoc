@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Jakékoliv místo
+= 4.5 Jakékoliv místo
 
 == Nadpis
 

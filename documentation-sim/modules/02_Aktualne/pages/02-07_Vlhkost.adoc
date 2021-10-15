@@ -8,7 +8,7 @@
 
 :table-caption!:
 
-= Vlhkost
+= 2.6 Vlhkost
 
 == Nadpis
 
